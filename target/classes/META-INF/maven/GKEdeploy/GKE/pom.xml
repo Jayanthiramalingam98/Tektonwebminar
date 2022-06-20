@@ -38,7 +38,7 @@
 			</plugin>
 		</plugins>
 		<finalName>
-		GKEdeploy
+		webminar
 		</finalName>
 	</build>
 
